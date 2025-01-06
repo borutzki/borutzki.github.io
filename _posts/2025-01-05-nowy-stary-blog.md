@@ -11,13 +11,13 @@ categories: meta
 
 Tak naprawdę to nie. To nie jest nowy blog. To kolejna iteracja istniejącego już wcześniej `borutzki.wordpress.com`. Uznałem, że powoli zaczynam rezygnować z serwisu `Wordpress.com` tam, gdzie się da. Dlaczego? Jest kilka powodów.
 
-1. Zamierzam postawić kilka nowych blogów w tym roku i nie widzi mi się opłacanie konta "premium" dla każdego z nich. Kosztowałoby to jakieś ~300 złotych w skali roku, jeżeli nic nie podrożeje.
+1. Zamierzam postawić kilka nowych blogów w tym roku i nie widzi mi się opłacanie konta "premium" dla każdego z nich. Kosztowałoby to jakieś ~300 złotych w skali roku (za pojedynczą stronę!) - jeżeli nic nie podrożeje.
 
-2. Coraz więcej płatnych funkcji, dostępnych dla kont biznesowych, ale nie dla "zwykłych" płatników mnie zniechęca. Tak samo ciągłe zmiany w interfejsie, pakowanie wszędzie niepotrzebnych funkcji "AI" i coraz gorsza optymalizacja. Serio, laptop z 16 GB RAM potrafi się przywiesić przy edycji tekstu na Wordpress.com...
+2. Coraz więcej dostępnych dla kont biznesowych płatnych opcji, niedostępnych dla "zwykłych" płatników. Tak samo ciągłe zmiany w interfejsie, pakowanie wszędzie niepotrzebnych funkcji "AI" i coraz wolniejsze działanie. Serio, laptop z 16 GB RAM potrafi się przywiesić przy edycji tekstu(!) na Wordpress.com...
 
 3. Od tak dawna korzystam z Markdowna i Gita (technologie dość powszechne w branży IT), że tylko kwestią czasu była przesiadka z mułowatego serwisu który nie pozwala mi użyć własnej domeny na coś lżejszego, co pozwoli mi po prostu siąść i pisać.
 
-Owszem, ten nowy blog, w momencie gdy to piszę, ciągle wygląda jak z epoki kamienia łupanego, ale to powoli ulegnie zmianie. Przeniosę tu też część wpisów, które są na starym blogu. W domyśle, witrynę z Wordpressa kompletnie zarzucę. Ruchu i tak nie notowała zbyt dużego.
+Owszem, ten nowy blog, w momencie gdy to piszę, ciągle wygląda jak z epoki kamienia łupanego, ale to powoli ulegnie zmianie. Przeniosę tu też część wpisów, które są na starym blogu. W domyśle, witrynę z Wordpressa kompletnie porzucę. Ruchu i tak nie notowała zbyt dużego.
 
 ## Co poza tym?
 
