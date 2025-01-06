@@ -21,7 +21,7 @@
 title: Borutzki
 author: Kacper Borucki
 description: >- # this means to ignore newlines until "baseurl:"
-  Personalny blog na tematy technologiczne, kulturowe i z lekkim zacięciem do filozofii.
+  Piszę o technologii, kulturze i prywacie która w danej chwili przyjdzie mi do głowy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
