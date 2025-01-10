@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dystopijna Teraźniejszość #001: Kampanie reklamowe na Facebooku"
-date:   2025-01-10 20:00:00 +0100
+date:   2025-01-10 19:59:00 +0100
 categories: Dystopijna terazniejszość
 obrazki: /assets/images/2025-01-10-DT01/
 ---
