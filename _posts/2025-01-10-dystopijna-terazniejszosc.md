@@ -74,12 +74,12 @@ Ciekawe. Właśnie takie cechy często przedstawia się, jako oznaki, że dane k
 
 Idąc dalej, spędziłem trochę czasu analizując kilkanaście profili i doszedłem do dwóch wniosków:
 
-1. Istnieją silne przesłanki by uznać, że większość politycznych komentarzy pod tym wpisem napisali właśnie *trolle*.
+1. Istnieją silne przesłanki by uznać, że większość politycznych komentarzy pod tym wpisem napisały właśnie *trolle*.
 2. Bardzo trudno odróżnić *trolla* od niezbyt rozgarniętej osoby zaangażowanej w aferki polityczne - zwłaszcza, że ta druga jest zazwyczaj podpuszczana przez tego pierwszego.
 
 W takim razie, pytanie brzmi: czy komentujący ten wpis to *trolle*?
 
-Niestety, na to nie mogę i nie chcę jednoznacznie odpowiedzieć. Wiele na to wskazuje, jednak moja wiedza z zakresu informatyki śledczej (OSINT) nie pozwala mi przedstawić jednoznacznych dowodów. A nie chcę rzucać bezpodstawnych oskarżeń w stronę osób, które po prostu wmanipulowane w polityczne wojenki.
+Niestety, na to nie mogę i nie chcę jednoznacznie odpowiedzieć. Wiele na to wskazuje, jednak moja wiedza z zakresu informatyki śledczej (OSINT) nie pozwala mi przedstawić jednoznacznych dowodów. A nie chcę rzucać bezpodstawnych oskarżeń w stronę osób, które zostały po prostu wmanipulowane w polityczne wojenki.
 
 Oczywiście, można teraz uznać że biję tu pianę o nic, ale tak naprawdę to nie chcę popadać w efekt Krugera-Dunniga i bawić się w detektywa, nie mając ku temu technicznych ani prawnych możliwości. Chcę jednak skłonić swoich czytelników do zastanowienia się nad tą opcją: że może nie wszyscy, którzy są na Facebooku, faktycznie istnieją?
 
@@ -89,7 +89,7 @@ Po tym wszystkim, można jeszcze zadać ostatnie pytanie: "no dobra, i co z tego
 
 1. **Przykład tej kampanii reklamowej pokazuje, że algorytm Facebooka całkiem skutecznie zderza ze sobą kompletnie niedopasowane, kontrowersyjne grupy, żeby generować "zaangażowanie"**. Czy ma w tym interes? Oczywiście! Cały model biznesowy Facebooka polega na tym, żeby generować jak najwięcej kliknięć i przyciągać ludzi na jak najdłużej. Dlatego właśnie nie warto angażować się tam w awantury. Człowiek się tylko nakręci, a ktoś inny na tym zarabia.
 
-2. **Mimo wszystko, ta reklama mogła mieć sens.** Z tego co rozumiem, zasięgi strony nieco wzrosły ze względu na zaangażowanie - co wypromowało post na tablicach innych, bardziej "normalnych" osób. Czy zadziałało to w taki sposób, w jaki mogła oczekiwać autorka strony? Raczej nie. Wygląda więc na to, że użeranie się z komentarzami takimi pokazane wyżej to coś, co trzeba mieć na uwadze, wykupując reklamy na Facebooku.
+2. **Mimo wszystko, ta reklama mogła mieć sens.** Z tego co rozumiem, zasięgi strony nieco wzrosły ze względu na zaangażowanie - co wypromowało post na tablicach innych, bardziej "normalnych" osób. Czy zadziałało to w taki sposób, w jaki mogła oczekiwać autorka strony? Raczej nie. Wygląda więc na to, że użeranie się z komentarzami takimi jak pokazane wyżej to coś, co trzeba mieć na uwadze, wykupując reklamy na Facebooku.
 
 3. **Parafrazowany cytat z początku wpisu zdaje się być uzasadniony.** Czy Facebook to teraz AI, starzy ludzie, patusy i boty? Ujmę to tak: można mieć ku temu przesłanki, przy czym te dwie ostatnie grupy dość trudno od siebie odróżnić.
 
