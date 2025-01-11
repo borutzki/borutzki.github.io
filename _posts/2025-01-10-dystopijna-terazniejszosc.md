@@ -18,7 +18,7 @@ Na początku małe ogłoszenie: seria wpisów `Dystopijna Teraźniejszość` kt�
 
 Opinie jak powyższa wydają się dość skrajne, ale obecnie często można się z nimi spotkać. Czy słusznie? Podrążmy ten temat.
 
-Najpierw kontekst. Kumpel napisał mi, że jego znajoma założyła sobie na Facebooku stronę, na której promuje swoje lekcje języka niemieckiego. Pomysł na biznes - niezły. Ale wiadomo - trzeba dotrzeć do klientów, żeby zarobić. Racjonalnym pomysłem zdaje się promowanie wpisów przez reklamy. Mnóstwo osób i marek to robi, żeby budować zasięgi[^1]. Zdaje się, że ma to sens: za dość rozsądne kwoty można zdobyć nieosiągalne w inny sposób zasięgi.
+Najpierw kontekst. Kumpel napisał mi, że jego znajoma założyła sobie na Facebooku stronę, na której promuje swoje lekcje języka niemieckiego. Pomysł na biznes - niezły. Ale wiadomo - trzeba dotrzeć do klientów, żeby zarobić. Racjonalnym pomysłem zdaje się promowanie wpisów przez reklamy. Mnóstwo osób i marek to robi, żeby budować widoczność[^1]. Zdaje się, że ma to sens: za dość rozsądne kwoty można zdobyć nieosiągalne w inny sposób zasięgi.
 
 ## Wpis sponsorowany i komentarze pod nim
 
