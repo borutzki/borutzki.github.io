@@ -1,13 +1,13 @@
 ---
 layout: page
-title: O mnie
+title: About me
 permalink: /about/
 ---
 
-Cześć!
+Hi!
 
-Nazywam się Kacper. Z wykształcenia jestem elektrykiem, pracuję jako Python developer (umiem też w testy w Robot Frameworku), ale poza pracą mam kilka innych zainteresowań. Wśród nich - podróże, książki, muzyka, finanse osobiste, kultura fizyczna i tematy okołonaukowe.
+My name is Kacper and I'm crafting code in Python. I have experience in both development and quality assurance.
 
-Bloga prowadzę od 2018 roku i przez długi czas nie mogłem się zdecydować, co na nim będzie. W 2022 roku postanowiłem wątek podróży przenieść na [Zawieruszony Blog](https://zawieruszony.blog/) i od tej pory blog Borutzki ma się skupiać głównie na refleksjach, poradnikach, szeroko pojętej kulturze i mojej własnej twórczości. Ot, jedno miejsce w sieci, w którym chcę się podzielić tym, co porabiam.
+This blog is dedicated to how-to guides, solutions of technical problems I've encountered, and general tips for Python and everything around Python development.
 
-Miłej lektury!
+Happy hacking!

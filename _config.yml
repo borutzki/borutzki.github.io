@@ -21,13 +21,14 @@
 title: Borutzki
 author: Kacper Borucki
 description: >- # this means to ignore newlines until "baseurl:"
-  Piszę o technologii, kulturze i prywacie która w danej chwili przyjdzie mi do głowy.
+  Coding for people, not just processors. Pragmatic solutions for non-trivial problems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social media
 github_username: borutzki
 linkedin_username: kacperborucki
+twitter_username: derborutzki
 rss: RSS
 mastodon:
   - username: borutzki
