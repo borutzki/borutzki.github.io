@@ -69,7 +69,7 @@ Bad because it's over-engineered:
 ```python
 >>> def hello_world_factory(): return "Hello world"
 ...
->>> print.__call__(x)
+>>> print.__call__(hello_world_factory())
 Hello world
 ```
 
