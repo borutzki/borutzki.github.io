@@ -6,6 +6,8 @@ excerpt_separator: <!--more-->
 
 Recently I've been working with Pydantic models quite a lot. And I mean multiple models with multiple fields and validators. I noticed that in some cases, reusing validators in some smart way would reduce my codebase by even hundredths of lines of code. So I tried to come up with a solution for that problem...
 
+![Code snippet]({{ site.baseurl }}/assets/img/snippets/2025-12-22-how-to-reuse-pydantic-model_validator-across-multiple-models-without-boilerplate-code.png)
+
 <!--more-->
 
 ## Starting point
@@ -168,7 +170,6 @@ Yes, when taken out of context. But in a team that works with models on a daily 
 My main concern is that such usage of validators could get deprecated by Pydantic at some point, especially given the lack of documentation. But it seems like what I do here is basically calling a parametrized decorator directly, as a function. So the risk might be real, but looks like not not that high in the end.
 
 ___
-
 
 *That's it for today. Happy hacking! 🐍*
 
