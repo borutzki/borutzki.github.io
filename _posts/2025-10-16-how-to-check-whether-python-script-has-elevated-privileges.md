@@ -44,7 +44,6 @@ def is_admin() -> bool:
 
 ___
 
-
 *That's it for today. Happy hacking! 🐍*
 
 [^1]: <https://docs.python.org/3/library/os.html#os.getuid>
