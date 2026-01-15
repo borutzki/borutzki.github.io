@@ -91,6 +91,4 @@ Ugly because of right padding:
 |         Hello world|
 ```
 
-___
-
-*That's it for today. Happy hacking!*
+> *That's it for today. Happy hacking!*

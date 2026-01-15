@@ -169,8 +169,8 @@ Yes, when taken out of context. But in a team that works with models on a daily 
 
 My main concern is that such usage of validators could get deprecated by Pydantic at some point, especially given the lack of documentation. But it seems like what I do here is basically calling a parametrized decorator directly, as a function. So the risk might be real, but looks like not not that high in the end.
 
-___
+> *That's it for today. Happy hacking! 🐍*
 
-*That's it for today. Happy hacking! 🐍*
+___
 
 [^reuse]: <https://docs.pydantic.dev/2.0/usage/validators/#reuse-validators>

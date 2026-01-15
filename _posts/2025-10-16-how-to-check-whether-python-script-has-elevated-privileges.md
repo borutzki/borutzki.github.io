@@ -42,9 +42,9 @@ def is_admin() -> bool:
         return False
 ```
 
-___
+>*That's it for today. Happy hacking! 🐍*
 
-*That's it for today. Happy hacking! 🐍*
+___
 
 [^1]: <https://docs.python.org/3/library/os.html#os.getuid>
 [^2]: <https://docs.python.org/3/library/ctypes.html>
