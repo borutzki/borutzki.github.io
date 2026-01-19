@@ -135,9 +135,9 @@ So as you can see, with great complexity of the database, more knowledge about D
 
 The problem I described was probably specific to the app I work on and its combination of Netbox, PostgreSQL and multi-endpoint workflows being tested.
 
-Anyway, I wasted too much time on observing CI pipelines randomly failing on my branches because of someone else's tests, so I decided to take a look. And since the topic looked quite curious - I decided to describe it here.
+Anyway, I wasted too much time on observing CI pipelines randomly failing on my branches because of someone else's tests, so I decided to take a deeper look. And since the topic looked quite curious - I decided to describe it here.
 
-Lesson learned: Make your QuerySets deterministic, either via stricter filters, explicit ordering, or `Meta.ordering`.
+Lesson learned: Make your `QuerySet`s deterministic, either via stricter filters, explicit ordering, or `Meta.ordering`.
 
 > *That's it for today. Happy hacking! 🐍*
 
