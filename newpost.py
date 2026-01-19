@@ -13,7 +13,7 @@ import unicodedata
 
 ARTICLE_TEMPLATE = """---
 layout: post
-title:  ""
+title:  "{}"
 excerpt_separator: <!--more-->
 ---
 
@@ -53,10 +53,10 @@ def create_file_name(title: str | None) -> str:
         return date
 
 
-def create_new_post_file(filename: str) -> None:
+def create_new_post_file(filename: str, title: str) -> None:
     """Create new Markdown file in default location with default template."""
     with open(POSTS / f"{filename}.md", mode="w") as md:
-        md.write(ARTICLE_TEMPLATE)
+        md.write(ARTICLE_TEMPLATE.format(title))
 
 
 if __name__ == "__main__":
@@ -66,4 +66,4 @@ if __name__ == "__main__":
         title = None
 
     filename = create_file_name(title)
-    create_new_post_file(filename)
+    create_new_post_file(filename, title)
