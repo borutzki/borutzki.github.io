@@ -3,3 +3,23 @@
 ---
 
 @import "minima";
+
+// Used StackOverflow response: https://stackoverflow.com/a/36658757/18577080 as a base
+// Adding 'Contents' headline to the TOC
+#markdown-toc::before {
+    content: "Table of content";
+    font-weight: bold;
+}
+
+
+// Using numbers instead of bullets for listing
+#markdown-toc ul {
+    list-style: disc;
+}
+
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    list-style: decimal;
+    display: inline-block;
+}
